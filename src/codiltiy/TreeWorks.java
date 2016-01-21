@@ -88,7 +88,7 @@ public class TreeWorks {
    
    }
    public void getMaximum(Node rootNode){
-      
+      // This Method get the maximum value in a Binary Search Tree
        int maxVal =0;
         Node tempNode = rootNode;
        
